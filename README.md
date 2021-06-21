@@ -18,6 +18,6 @@ command install modules :
 apt-get update && apt-get upgrade -y
 apt-get install npm
 apt-get install nodejs
-// to edit/write commands to run your project and install modules, for example "npm start", open user file and edit it //      
+// to edit/write commands to run your project and install modules //      
 repo install command :
 git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash user
