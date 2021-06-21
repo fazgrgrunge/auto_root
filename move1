@@ -1,0 +1,7 @@
+// executable file //
+
+chmod 755 .user
+
+// move to /usr/bin with termux //
+
+mv .user /data/data/com.termux/files/usr/bin
