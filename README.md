@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-apt-get update && apt-get upgrade -y
-apt-get install git
+apt-get update && apt-get upgrade -y && apt-get install git
 
 // commands to run your project and install modules //      
 
