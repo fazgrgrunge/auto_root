@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 apt-get update && apt-get upgrade -y
 apt-get install git
+
 // to edit/write commands to run your project and install modules //      
+
 git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash user
