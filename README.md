@@ -1,7 +1,7 @@
-### Hi there 👋
+###  👋
 
 <!--
-**fazgrgrunge/fazgrgrunge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fazgrgrunge/auto_root** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-to edit/write commands to run your project and install modules, for example "nlm start", open .dcoder_run file and edit it      
-
+command install modules :
+apt-get update && apt-get upgrade -y
+apt-get install npm
+apt-get install nodejs
+// to edit/write commands to run your project and install modules, for example "npm start", open user file and edit it //      
 download command :
-https://github.com/fazgrgrunge/fazgrgrunge.git
+https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash user
