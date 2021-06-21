@@ -22,7 +22,7 @@ git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash m
 
 // commands to run your project and install repo with ubuntu and linux //     
 
-git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash move2 && .user
+sudo git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash move2 && .user
 
 // command to root //
 
