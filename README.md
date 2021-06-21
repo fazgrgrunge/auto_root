@@ -25,4 +25,5 @@ git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash m
 git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash move2 && .user
 
 // command to root //
+
 .user
