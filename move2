@@ -1,6 +1,6 @@
 // executable file //
 
-chmod 755 .user
+chmod +x .user
 
 // move to /usr/bin with ubuntu and linux //
 
