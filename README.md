@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 apt-get update && apt-get upgrade -y && apt-get install git
 
-// commands to run your project and install repo //      
+// commands to run your project and install repo with termux //      
 
-git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash .user
+git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash move1 && .user
+
+// commands to run your project and install repo with ubuntu and linux //     
+
+git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash move2 && .user
+
+// command to root //
+.user
