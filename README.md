@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-command install modules :
 apt-get update && apt-get upgrade -y
-apt-get install npm
-apt-get install nodejs
+apt-get install git
 // to edit/write commands to run your project and install modules //      
-repo install command :
 git clone https://github.com/fazgrgrunge/auto_root.git && cd auto_root && bash user
