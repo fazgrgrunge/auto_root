@@ -1,7 +1,3 @@
-# write commands to install modules/lib and run your project, one in each line.
-# gcc commands are available along with other basic linux commands.
-# command to compile the project
-gcc -w -Wall -std=gnu99 -O2 -o su auto_root.c -lm && proot -0 -w ~ $PREFIX/bin/bash
-
+#!/bin/bash
 # command to run, change name with executable file genrated from above command
-./su                                            rm su
+proot -0 -w ~ $PREFIX/bin/bash
